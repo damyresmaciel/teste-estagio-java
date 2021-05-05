@@ -3,7 +3,6 @@ package teste;
 public class Exercicio_03 {
 
   public static void main(String[] args) {
-
     imprimePalavras("Livros","Cadernos","Notebook","Canetas");
   }
 
@@ -12,5 +11,4 @@ public class Exercicio_03 {
       System.out.println(palavra);
     }
   }
-
 }
